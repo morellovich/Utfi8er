@@ -8,6 +8,8 @@ utfi8er is a Python GUI application designed to rename files and folder names by
 - It then replaces the non-utf8 characters with their standard equivalents.
 - The user can define the replacement rules in the GUI.
 - The app will then rename all files and folders accordingly.
+- The app respects the original _upper/lower case_ state.
+- The user can also choose to save the original names in a log file.
 
 ## ⚙️ Features
 
