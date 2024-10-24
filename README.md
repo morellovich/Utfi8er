@@ -9,8 +9,6 @@ utfi8er is a Python GUI application designed to rename files and folder names by
 - The user can define the replacement rules in the GUI.
 - The app will then rename all files and folders accordingly.
 
-FolderMirror solves these problems by creating exact folder structure copies while generating detailed logs of the process.
-
 ## ⚙️ Features
 
 - Replace specific German characters with user-defined alternatives.
