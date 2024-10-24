@@ -2,6 +2,15 @@
 
 utfi8er is a Python GUI application designed to rename files and folder names by replacing specific German characters (e.g. 'ß', 'Ü', 'Ö', 'Ä') with their standard equivalents ('SS', 'Ue', 'Oe', 'Ae'). It also allows for customizable character replacements through a user-friendly interface.
 
+## 🎯 Purpose
+
+- The app scans a specific user defined folder and its subfolders & files
+- It then replaces the non-utf8 characters with their standard equivalents.
+- The user can define the replacement rules in the GUI.
+- The app will then rename all files and folders accordingly.
+
+FolderMirror solves these problems by creating exact folder structure copies while generating detailed logs of the process.
+
 ## ⚙️ Features
 
 - Replace specific German characters with user-defined alternatives.
